@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Lab"
+             x:Class="Lab.MainPage">
+
+    <StackLayout>
+        <Label x:Name="labelType" Text="Тип продукту" FontSize="Large"/>
+        <Picker x:Name="Types" SelectedIndexChanged="Types_SelectedIndexChanged">
+            <Picker.Items>
+                <x:String>Електричні прилади</x:String>
+                <x:String>Побутова хімія</x:String>
+                <x:String>Продукти харчування</x:String>
+                <x:String>Меблі</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <Label x:Name="labelVendor" Text="Фірма" FontSize="Large"/>
+        <Picker x:Name="Vendors" SelectedIndexChanged="Vendors_SelectedIndexChanged">
+            <Picker.Items>
+                <x:String>Asus</x:String>
+                <x:String>Philips</x:String>
+                <x:String>Samsung</x:String>
+                <x:String>Iceman</x:String>
+                <x:String>BRW</x:String>
+                <x:String>VidiMost</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <Button x:Name="send" Text="OK" FontSize="Large" HorizontalOptions="Start" VerticalOptions="Center" Clicked="Send_Clicked"/>
+        <Button x:Name="cancel" Text="Cancel" FontSize="Large" HorizontalOptions="Start" VerticalOptions="Center" Clicked="Cancel_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,12 @@
+E:\STUDY\VI semester\MobileApp\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.csprojAssemblyReference.cache
+E:\STUDY\VI semester\MobileApp\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\STUDY\VI semester\MobileApp\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\STUDY\VI semester\MobileApp\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.csproj.CoreCompileInputs.cache
+E:\STUDY\VI semester\MobileApp\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.AssemblyInfoInputs.cache
+E:\STUDY\VI semester\MobileApp\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.AssemblyInfo.cs
+E:\STUDY\VI semester\MobileApp\Lab2\Lab2\Lab2\bin\Debug\netstandard2.0\Lab2.deps.json
+E:\STUDY\VI semester\MobileApp\Lab2\Lab2\Lab2\bin\Debug\netstandard2.0\Lab2.dll
+E:\STUDY\VI semester\MobileApp\Lab2\Lab2\Lab2\bin\Debug\netstandard2.0\Lab2.pdb
+E:\STUDY\VI semester\MobileApp\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\XamlC.stamp
+E:\STUDY\VI semester\MobileApp\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.dll
+E:\STUDY\VI semester\MobileApp\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.pdb
