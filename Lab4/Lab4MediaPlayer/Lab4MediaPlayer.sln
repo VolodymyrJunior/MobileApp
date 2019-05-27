@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4MediaPlayer.Android", "Lab4MediaPlayer\Lab4MediaPlayer.Android\Lab4MediaPlayer.Android.csproj", "{121A39F2-625B-49C5-991D-7E9EB0A23504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4MediaPlayer", "Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer.csproj", "{D1A54525-2852-484A-8449-66AFE4B46FD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121A39F2-625B-49C5-991D-7E9EB0A23504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121A39F2-625B-49C5-991D-7E9EB0A23504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121A39F2-625B-49C5-991D-7E9EB0A23504}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{121A39F2-625B-49C5-991D-7E9EB0A23504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121A39F2-625B-49C5-991D-7E9EB0A23504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{121A39F2-625B-49C5-991D-7E9EB0A23504}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D1A54525-2852-484A-8449-66AFE4B46FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A54525-2852-484A-8449-66AFE4B46FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A54525-2852-484A-8449-66AFE4B46FD6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D1A54525-2852-484A-8449-66AFE4B46FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A54525-2852-484A-8449-66AFE4B46FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A54525-2852-484A-8449-66AFE4B46FD6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF99EE9E-4BD4-4D58-A0EA-A6E003A7FFC7}
+	EndGlobalSection
+EndGlobal

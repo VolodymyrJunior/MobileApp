@@ -1,0 +1,35 @@
+D:\3 year 2 sem\Mobile\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\bin\Debug\netstandard2.0\Lab4MediaPlayer.deps.json
+D:\3 year 2 sem\Mobile\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\bin\Debug\netstandard2.0\Lab4MediaPlayer.dll
+D:\3 year 2 sem\Mobile\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\3 year 2 sem\Mobile\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\3 year 2 sem\Mobile\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.csproj.CoreCompileInputs.cache
+D:\3 year 2 sem\Mobile\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.AssemblyInfoInputs.cache
+D:\3 year 2 sem\Mobile\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.AssemblyInfo.cs
+D:\3 year 2 sem\Mobile\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\bin\Debug\netstandard2.0\Lab4MediaPlayer.pdb
+D:\3 year 2 sem\Mobile\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\XamlC.stamp
+D:\3 year 2 sem\Mobile\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.dll
+D:\3 year 2 sem\Mobile\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.pdb
+C:\Users\Volodymyr\Downloads\Telegram Desktop\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\bin\Debug\netstandard2.0\Lab4MediaPlayer.deps.json
+C:\Users\Volodymyr\Downloads\Telegram Desktop\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\bin\Debug\netstandard2.0\Lab4MediaPlayer.dll
+C:\Users\Volodymyr\Downloads\Telegram Desktop\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\bin\Debug\netstandard2.0\Lab4MediaPlayer.pdb
+C:\Users\Volodymyr\Downloads\Telegram Desktop\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.csprojAssemblyReference.cache
+C:\Users\Volodymyr\Downloads\Telegram Desktop\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Volodymyr\Downloads\Telegram Desktop\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Volodymyr\Downloads\Telegram Desktop\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Volodymyr\Downloads\Telegram Desktop\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.AssemblyInfoInputs.cache
+C:\Users\Volodymyr\Downloads\Telegram Desktop\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.AssemblyInfo.cs
+C:\Users\Volodymyr\Downloads\Telegram Desktop\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Volodymyr\Downloads\Telegram Desktop\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.dll
+C:\Users\Volodymyr\Downloads\Telegram Desktop\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.pdb
+E:\STUDY\VI semester\MobileApp\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\bin\Debug\netstandard2.0\Lab4MediaPlayer.deps.json
+E:\STUDY\VI semester\MobileApp\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\bin\Debug\netstandard2.0\Lab4MediaPlayer.dll
+E:\STUDY\VI semester\MobileApp\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\bin\Debug\netstandard2.0\Lab4MediaPlayer.pdb
+E:\STUDY\VI semester\MobileApp\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.csprojAssemblyReference.cache
+E:\STUDY\VI semester\MobileApp\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\STUDY\VI semester\MobileApp\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\STUDY\VI semester\MobileApp\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.csproj.CoreCompileInputs.cache
+E:\STUDY\VI semester\MobileApp\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.AssemblyInfoInputs.cache
+E:\STUDY\VI semester\MobileApp\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.AssemblyInfo.cs
+E:\STUDY\VI semester\MobileApp\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\XamlC.stamp
+E:\STUDY\VI semester\MobileApp\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.dll
+E:\STUDY\VI semester\MobileApp\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\Lab4MediaPlayer\obj\Debug\netstandard2.0\Lab4MediaPlayer.pdb
